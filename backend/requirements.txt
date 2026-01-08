@@ -1,0 +1,19 @@
+# FastAPI Backend Dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# AI
+groq>=0.4.0
+
+# Resume Processing
+PyPDF2>=3.0.0
+
+# Data Processing
+pandas>=2.0.0
+requests>=2.31.0
+
+# Web Scraping (for job search fallback)
+beautifulsoup4>=4.12.0
