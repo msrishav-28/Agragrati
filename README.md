@@ -16,20 +16,20 @@
  <a href="#api-keys">API Keys</a>
 </p>
 
- <img src="https://img.shields.io/badge/React-18.3-blue?logo=react" alt="React" />
- <img src="https://img.shields.io/badge/FastAPI-0.104-green?logo=fastapi" alt="FastAPI" />
- <img src="https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript" alt="TypeScript" />
- <img src="https://img.shields.io/badge/Tailwind-3.4-cyan?logo=tailwindcss" alt="Tailwind" />
- <img src="https://img.shields.io/badge/Groq-Llama%203.3-orange" alt="Groq AI" />
- <img src="https://img.shields.io/badge/Framer%20Motion-11-purple?logo=framer" alt="Framer Motion" />
- <br/>
- <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white" alt="Python" />
- <img src="https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite&logoColor=white" alt="Vite" />
- <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />
- <img src="https://img.shields.io/badge/Zustand-State-orange" alt="Zustand" />
- <img src="https://img.shields.io/badge/shadcn%2Fui-Components-000000" alt="shadcn/ui" />
- <img src="https://img.shields.io/badge/Vercel-Deployment-000000?logo=vercel&logoColor=white" alt="Vercel" />
- <img src="https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white" alt="Docker" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18.3-blue?logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-0.104-green?logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-3.4-cyan?logo=tailwindcss" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Groq-Llama%203.3-orange" alt="Groq AI" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-11-purple?logo=framer" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Zustand-State-orange" alt="Zustand" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-Components-000000" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Vercel-Deployment-000000?logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
